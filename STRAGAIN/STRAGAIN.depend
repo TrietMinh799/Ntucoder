@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1675083974 source:d:\folder\competitiveprogramming\ntucoder\stragain\main.cpp
+	<iostream>
+	<map>
+	<string>
+	<queue>
+	<set>
+
